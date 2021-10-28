@@ -13,5 +13,5 @@ Prover testes online sobre saúde para que as pessoas possam entender melhor com
 * Dicas em formato de texto e vídeos sobre exercícios e alimentação feitos pelos especialistas também serão disponibilizados.
 
 ## referências
-Teste e Calculadoras. [TuaSaúde](https://www.tuasaude.com/testes-e-calculadoras/).
-Testes online. [Boa Saúde](https://www.boasaude.com.br/calculadora/).
+* Teste e Calculadoras. [TuaSaúde](https://www.tuasaude.com/testes-e-calculadoras/).
+* Testes online. [Boa Saúde](https://www.boasaude.com.br/calculadora/).
