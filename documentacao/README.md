@@ -20,7 +20,7 @@ Prover testes online sobre saúde para que as pessoas possam entender melhor com
 - Inserir texto aqui
 
 ## Testes
-O sistema será sujeitado a testes de performance, segurança, integração e testes automatizados. Os testes serão realizados tanto de forma manual como automatizada.
+O sistema será sujeitado a testes de performance, segurança e integração. Os testes serão realizados tanto de forma manual como automatizada.
 
 ### Performance
 Irá medir o tempo de resposta para obtenção, atualização, inserção de dados e para execução de funcionalidades do sistema.
