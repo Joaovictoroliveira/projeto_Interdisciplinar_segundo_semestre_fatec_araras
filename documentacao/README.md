@@ -12,12 +12,21 @@ Prover testes online sobre saúde para que as pessoas possam entender melhor com
 *	Através dos resultados, o usuário será redirecionado para os especialistas (médicos, nutricionistas, educadores físicos), para que possa iniciar seu acompanhamento;
 * Dicas em formato de texto e vídeos sobre exercícios e alimentação feitos pelos especialistas também serão disponibilizados.
 
-## Requisitos
-### Funcionais
-- Inserir texto aqui
+## Requisitos do sistema
 
-### Não-funcionais
-- Inserir texto aqui
+### Requisitos funcionais
+* Cadastro de usuário por meio de um formulário
+* Realização de testes de saúde
+* Geração dos resultados dos testes
+* Especialistas postarem conteúdos relacionados aos testes e a saúde em geral
+
+### Requisitos não-funcionais
+* Usabilidade - facilidade de uso do sistema pelos usuários
+* Manutenibilidade - facilidade em relação a correção de bugs e da melhoria das funcionalidades
+* Confiabilidade - probabilidade de não ocorrer um erro no sistema em um determinado período de tempo
+* Desempenho - resposta de tempo após a execução de uma determinada funcionalidade
+* Portabilidade - facilidade de transferência do sistema de um software computacional para outro
+* Segurança - acessos não autorizados não serão permitidos
 
 ## Testes
 O sistema será sujeitado a testes de performance, segurança e integração. Os testes serão realizados tanto de forma manual como automatizada.
@@ -37,9 +46,9 @@ Irá conferir se as restrições especificadas a cada tipo de usuário estão se
 Irá verificar a integração entre componentes do sistema.
 * Verifica como um componente se porta agindo individualmente, e seu comportamento quando ele se comunica com outro componente.
 
-
-## referências
+## Referências
 * Teste e Calculadoras. https://www.tuasaude.com/testes-e-calculadoras/
 * Testes online. https://www.boasaude.com.br/calculadora/
 * Diferença entre fases de teste, tipos de teste e formas de execução. https://www.zup.com.br/blog/fases-de-teste-tipos-de-teste
 * Teste de Software: Teste Funcional e demais tipos de teste. https://www.testar.me/teste-de-software
+* Requisitos funcionais e não funcionais: o que são?. https://mestresdaweb.com.br/fabrica-de-software/requisitos-funcionais-e-nao-funcionais-o-que-sao/
