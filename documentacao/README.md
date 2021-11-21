@@ -35,6 +35,15 @@ no caso de um usuário comum, realizar os testes e ter acesso as informações r
 voluntários acrescentar conteúdo relevante ao sistema ou prover assistência ao usuário comum.
 <img src="https://github.com/Joaovictoroliveira/projeto_integrador_segundo_semestre_fatec_araras/blob/main/diagramas/diagrama_de_casos_de_uso.png" alt="Diagrama de casos de uso"/>
 
+## Telas
+### Cadastro
+<img src="https://github.com/Joaovictoroliveira/projeto_integrador_segundo_semestre_fatec_araras/blob/main/Telas/Tela%20de%20Cadastro.jpg" alt="Tela de cadastro"/>
+
+### Cálculo IMC
+<img src="https://github.com/Joaovictoroliveira/projeto_integrador_segundo_semestre_fatec_araras/blob/main/Telas/Tela%20da%20Calculadora.jpg" alt="Calculo de IMC"/>
+
+### Guia de referência e dicas
+<img src="https://github.com/Joaovictoroliveira/projeto_integrador_segundo_semestre_fatec_araras/blob/main/Telas/Tela%20de%20Guia.jpg" alt="Guia de referência"/>
 
 ## Testes
 O sistema será sujeitado a testes de performance, segurança e integração. Os testes serão realizados tanto de forma manual como automatizada.
