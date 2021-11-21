@@ -33,7 +33,8 @@ Para acessar as funcionalidades do sistema, o usuário primeiro terá que realiz
 encaixa, um usuário comum(que deseja realizar os testes) ou voluntário(especialista). A partir disso, ele terá acesso a sua respectiva área, podendo
 no caso de um usuário comum, realizar os testes e ter acesso as informações referentes dos mesmos(funcionamento, resultado, dicas etc) e no caso dos
 voluntários acrescentar conteúdo relevante ao sistema ou prover assistência ao usuário comum.
-(./diagramas/diagrama_de_casos_de_uso.png)
+<img src="https://github.com/Joaovictoroliveira/projeto_integrador_segundo_semestre_fatec_araras/blob/main/diagramas/diagrama_de_casos_de_uso.png" alt="Diagrama de casos de uso"/>
+
 
 ## Testes
 O sistema será sujeitado a testes de performance, segurança e integração. Os testes serão realizados tanto de forma manual como automatizada.
