@@ -69,8 +69,9 @@ Frontend: HTML, CSS, JS e Bootstrap
 Banco de dados: Postgresql
 Versionamento: Git
 
-### Link Projeto
-<a href="http://projeto-inter-2-grupo-3.herokuapp.com/">http://projeto-inter-2-grupo-3.herokuapp.com/</a>
+### Sistema Desenvolvido
+<a href="http://projeto-inter-2-grupo-3.herokuapp.com/">Sistema hospedado</a>
+<a href="https://github.com/MateusVS/PI-2-Fatec-Araras">Repositório do Sistema</a>
 
 ## Referências
 * Teste e Calculadoras. https://www.tuasaude.com/testes-e-calculadoras/
