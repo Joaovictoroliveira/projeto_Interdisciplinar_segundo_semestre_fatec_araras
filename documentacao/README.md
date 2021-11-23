@@ -63,6 +63,15 @@ Irá conferir se as restrições especificadas a cada tipo de usuário estão se
 Irá verificar a integração entre componentes do sistema.
 * Verifica como um componente se porta agindo individualmente, e seu comportamento quando ele se comunica com outro componente.
 
+### Tecnologias Utilizadas
+Backend: Ruby on Rails
+Frontend: HTML, CSS, JS e Bootstrap
+Banco de dados: Postgresql
+Versionamento: Git
+
+### Link Projeto
+<a href="http://projeto-inter-2-grupo-3.herokuapp.com/">http://projeto-inter-2-grupo-3.herokuapp.com/</a>
+
 ## Referências
 * Teste e Calculadoras. https://www.tuasaude.com/testes-e-calculadoras/
 * Testes online. https://www.boasaude.com.br/calculadora/
